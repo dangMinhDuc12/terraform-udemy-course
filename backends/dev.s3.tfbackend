@@ -1,0 +1,3 @@
+bucket = "terraform-duc-backend"
+key    = "backends/dev/state.tfstate"
+region = "ap-southeast-1"
